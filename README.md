@@ -5,3 +5,4 @@ not work, check again
 git config --global credential.helper store 
 ```
 works
+mac check
