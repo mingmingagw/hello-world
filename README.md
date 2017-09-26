@@ -5,4 +5,9 @@ not work, check again
 git config --global credential.helper store 
 ```
 works
+
 mac check
+
+after installed sourcetree, git push worked ok in iterm2
+
+but sourcetree cannot call iterm2 
